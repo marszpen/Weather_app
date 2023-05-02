@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:marszpen/Weather_app.git",
+  "author": "Karina Penkala <marsz@poczta.onet.pl>",
+  "license": "MIT"
 }
