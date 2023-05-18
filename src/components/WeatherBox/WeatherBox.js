@@ -42,7 +42,7 @@ const WeatherBox = props => {
       <PickCity action={handleCityChange} />
       {weather && !load && <WeatherSummary {...weather} />}
       {load && <Loader />}
-      <Loader />
+  
       {showError && <ErrorBox />}
     </section>
   )
